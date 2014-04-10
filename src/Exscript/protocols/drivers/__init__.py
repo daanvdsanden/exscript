@@ -17,6 +17,7 @@ from Exscript.protocols.drivers.vrp import VRPDriver
 from Exscript.protocols.drivers.sros import SROSDriver
 from Exscript.protocols.drivers.aruba import ArubaDriver
 from Exscript.protocols.drivers.huawei import HuaweiDriver
+from Exscript.protocols.drivers.mrv import MrvDriver
 
 driver_classes = []
 drivers        = []
